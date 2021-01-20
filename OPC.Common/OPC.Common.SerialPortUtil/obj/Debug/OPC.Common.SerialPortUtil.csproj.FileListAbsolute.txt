@@ -1,0 +1,7 @@
+D:\Csharpworkspace\OPCUtil\OPC.Common\OPC.Common.SerialPortUtil\bin\Debug\OPC.Common.SerialPortUtil.exe.config
+D:\Csharpworkspace\OPCUtil\OPC.Common\OPC.Common.SerialPortUtil\bin\Debug\OPC.Common.SerialPortUtil.exe
+D:\Csharpworkspace\OPCUtil\OPC.Common\OPC.Common.SerialPortUtil\bin\Debug\OPC.Common.SerialPortUtil.pdb
+D:\Csharpworkspace\OPCUtil\OPC.Common\OPC.Common.SerialPortUtil\obj\Debug\OPC.Common.SerialPortUtil.csprojAssemblyReference.cache
+D:\Csharpworkspace\OPCUtil\OPC.Common\OPC.Common.SerialPortUtil\obj\Debug\OPC.Common.SerialPortUtil.csproj.CoreCompileInputs.cache
+D:\Csharpworkspace\OPCUtil\OPC.Common\OPC.Common.SerialPortUtil\obj\Debug\OPC.Common.SerialPortUtil.exe
+D:\Csharpworkspace\OPCUtil\OPC.Common\OPC.Common.SerialPortUtil\obj\Debug\OPC.Common.SerialPortUtil.pdb
