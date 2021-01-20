@@ -125,10 +125,11 @@ namespace OPC.Common.Task.Task
                     //_client.Expire(opcName, 50);//50秒过期
                 }
             }
+            Console.WriteLine("-----------------------------------------------------------------");
             //以下代码用于观察读取数据情况，数据会输出再d:\\OPCData.txt
             foreach (OpcData opcData in opcDatas)
             {
-                Console.WriteLine("-----------------------------------------------------------------");
+               
                 Console.WriteLine($"{opcData.OpcName}--{opcData.OpcValue}--{opcData.OpcTime}");
             }
             using (FileStream fileStream = new FileStream("d:\\OPCData.txt",FileMode.Append))
@@ -137,7 +138,7 @@ namespace OPC.Common.Task.Task
                 {
                     foreach (OpcData opcData in opcDatas)
                     {
-                        Console.WriteLine("-----------------------------------------------------------------");
+                        writer.WriteAsync("-----------------------------------------------------------------");
                         writer.WriteAsync($"{opcData.OpcName}--{opcData.OpcValue}--{opcData.OpcTime}\n");
                     }
                 }

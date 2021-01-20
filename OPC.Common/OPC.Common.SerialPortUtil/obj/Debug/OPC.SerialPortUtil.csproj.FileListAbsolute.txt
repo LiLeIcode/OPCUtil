@@ -19,3 +19,4 @@ D:\Csharpworkspace\OPCUtil\OPC.Common\OPC.Common.SerialPortUtil\obj\Debug\OPC.Se
 D:\Csharpworkspace\OPCUtil\OPC.Common\OPC.Common.SerialPortUtil\obj\Debug\OPC.SerialPortUtil.csproj.CopyComplete
 D:\Csharpworkspace\OPCUtil\OPC.Common\OPC.Common.SerialPortUtil\obj\Debug\OPC.SerialPortUtil.exe
 D:\Csharpworkspace\OPCUtil\OPC.Common\OPC.Common.SerialPortUtil\obj\Debug\OPC.SerialPortUtil.pdb
+D:\Csharpworkspace\OPCUtil\OPC.Common\OPC.Common.SerialPortUtil\obj\Debug\OPC.SerialPortUtil.csprojAssemblyReference.cache
