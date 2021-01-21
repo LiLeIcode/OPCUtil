@@ -1,14 +1,11 @@
 D:\Csharpworkspace\OPCUtil\OPC.Common\Topshelf.OPCServer\bin\Debug\Topshelf.OPCServer.exe.config
 D:\Csharpworkspace\OPCUtil\OPC.Common\Topshelf.OPCServer\bin\Debug\Topshelf.OPCServer.exe
 D:\Csharpworkspace\OPCUtil\OPC.Common\Topshelf.OPCServer\bin\Debug\Topshelf.OPCServer.pdb
-D:\Csharpworkspace\OPCUtil\OPC.Common\Topshelf.OPCServer\bin\Debug\OPC.Common.Task.exe
 D:\Csharpworkspace\OPCUtil\OPC.Common\Topshelf.OPCServer\bin\Debug\Topshelf.dll
 D:\Csharpworkspace\OPCUtil\OPC.Common\Topshelf.OPCServer\bin\Debug\Quartz.dll
 D:\Csharpworkspace\OPCUtil\OPC.Common\Topshelf.OPCServer\bin\Debug\OPC.SerialPortUtil.exe
 D:\Csharpworkspace\OPCUtil\OPC.Common\Topshelf.OPCServer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
 D:\Csharpworkspace\OPCUtil\OPC.Common\Topshelf.OPCServer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
-D:\Csharpworkspace\OPCUtil\OPC.Common\Topshelf.OPCServer\bin\Debug\OPC.Common.Task.pdb
-D:\Csharpworkspace\OPCUtil\OPC.Common\Topshelf.OPCServer\bin\Debug\OPC.Common.Task.exe.config
 D:\Csharpworkspace\OPCUtil\OPC.Common\Topshelf.OPCServer\bin\Debug\Topshelf.xml
 D:\Csharpworkspace\OPCUtil\OPC.Common\Topshelf.OPCServer\bin\Debug\Quartz.xml
 D:\Csharpworkspace\OPCUtil\OPC.Common\Topshelf.OPCServer\bin\Debug\OPC.SerialPortUtil.pdb
@@ -20,3 +17,6 @@ D:\Csharpworkspace\OPCUtil\OPC.Common\Topshelf.OPCServer\obj\Debug\Topshelf.OPCS
 D:\Csharpworkspace\OPCUtil\OPC.Common\Topshelf.OPCServer\obj\Debug\Topshelf.OPCServer.csproj.CopyComplete
 D:\Csharpworkspace\OPCUtil\OPC.Common\Topshelf.OPCServer\obj\Debug\Topshelf.OPCServer.exe
 D:\Csharpworkspace\OPCUtil\OPC.Common\Topshelf.OPCServer\obj\Debug\Topshelf.OPCServer.pdb
+D:\Csharpworkspace\OPCUtil\OPC.Common\Topshelf.OPCServer\bin\Debug\OPC.Task.exe
+D:\Csharpworkspace\OPCUtil\OPC.Common\Topshelf.OPCServer\bin\Debug\OPC.Task.pdb
+D:\Csharpworkspace\OPCUtil\OPC.Common\Topshelf.OPCServer\bin\Debug\OPC.Task.exe.config

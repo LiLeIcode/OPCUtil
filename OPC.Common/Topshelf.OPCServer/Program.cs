@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using OPC.Common.Task.Task;
+using OPC.Task.Task;
 
 namespace Topshelf.OPCServer
 {

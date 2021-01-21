@@ -62,9 +62,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\OPC.Common.Task\OPC.Common.Task.csproj">
+    <ProjectReference Include="..\OPC.Task\OPC.Task.csproj">
       <Project>{05bcd821-b8ae-47fa-a97c-22f6d78fd9a9}</Project>
-      <Name>OPC.Common.Task</Name>
+      <Name>OPC.Task</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
